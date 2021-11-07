@@ -13,6 +13,8 @@ docker build -t latex .
 docker run --rm -i -v "$PWD":/data latex pdflatex sourabh_bajaj_resume.tex
 ```
 
+or simply use https://www.freefileconvert.com/ to convert from .tex to pdf
+
 ### Preview
 
 ![Resume Screenshot](/resume_preview.png)
