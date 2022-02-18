@@ -1,0 +1,14 @@
+I am thrilled to hear of Alpaca's available Software Engineer position, and I formally submit my resume for consideration.
+I've recently learnt about algorithmic trading and was interested to know how different software companies are approaching this problem.
+And I love that Alpaca is doing - making stock trading commission free!
+I’m sure you receive many candidates for open positions, so allow me to present a few reasons why you should consider me.
+
+I am a passionate Software Engineer with experience in Backend development. I have been working with Thoughtworks and my role there correlates with this position.
+Me and my team are part of creating best practice starter kits for all the Thoughtworks projects, to jump start development.
+This project required me to adhere to microservice architecture, DDD, SOA, TDD, 12-factor, SOLID principles.
+I have contributed in Golang, Java and NodeJS starters.
+As we were creating start-kits, every piece of code had to adhere to industry best practices, And I have learned a lot along the way.
+On my journey, I have learnt the importance of OpenSource development and I'm exploring and trying to contribute to the community.
+
+I think I fit the requirements of the ideal candidate pretty well. And my consulting, analytical and team building experience from Thoughtworks is a must mention.
+So I believe this would be a good fit. I look forward to talking more about this exciting opportunity.
